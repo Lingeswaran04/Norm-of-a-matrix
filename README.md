@@ -40,14 +40,9 @@ print(norm)
 ## Output:
 ### 1-Norm of a Matrix
 ![maths unit 3 exp 7](https://github.com/Lingeswaran04/Norm-of-a-matrix/assets/119103865/487c4274-ac3d-4876-9175-0b5238f25866)
-
 ### 2-Norm of a Matrix
 ![maths unit 3 exp 7-2 norm](https://github.com/Lingeswaran04/Norm-of-a-matrix/assets/119103865/5de652d1-3a54-4680-a047-e6ce66fd0d18)
-
-
 ### Infinity Norm of a Matrix
 ![Screenshot 2023-10-04 143356](https://github.com/Lingeswaran04/Norm-of-a-matrix/assets/119103865/1900b3c4-ea27-4f5f-b000-4332cb0e1175)
-
-
 ## Result
 Thus the program for 1-norm, 2-norm and Infinity norm of a matrix are written and verified.
